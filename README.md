@@ -1,5 +1,5 @@
 ## Where in the world?
-
+Explore comprehensive data on all countries with ease. This repository hosts an interactive database containing detailed information about every nation, from demographics to economy and culture. Dive into the world's data effortlessly.
 ## Technologies Used
 * ReactJs
 * MUI
